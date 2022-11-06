@@ -8,7 +8,7 @@ layout: home
 <div></div>
 
 ## About me
-I started as an assistant professor (tenure-track) at University of Victoria in 2022, teaching and doing research on deep learning.
+I started as an assistant professor (tenure-track) at University of Victoria, Canada in 2022, teaching and doing research on deep learning.
 My research seeks to discover *how* deep learning works, experimentally discovering insights that improve our understanding and lead to practical improvements that advance the field.
 
 ## Education
