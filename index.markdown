@@ -4,20 +4,15 @@
 
 layout: home
 ---
-<img style="float: right;" src="photo.jpg">
+
+<div></div>
 
 ## About me
-I am starting as an assistant professor at University of Victoria in 2022, teaching and doing research on deep learning.
+I started as an assistant professor (tenure-track) at University of Victoria in 2022, teaching and doing research on deep learning.
 My research seeks to discover *how* deep learning works, experimentally discovering insights that improve our understanding and lead to practical improvements that advance the field.
 
-
 ## Education
-I completed my PhD in Computer Science from the University of Auckland (New Zealand) in 2021 and was nominated for the Dean’s List award (top 5% of the year). I also hold an MS in Applied Mathematics and graduated with a Distinction Award for my Master’s Thesis (top two in the department). Along the way also interned at Apple doing natural language processing.
-
-## Potential Students
-I am recruiting MS and PhD students to work with me and do deep learning-related research in my lab.
-Ideal applicants have already done some amount of research in deep learning, computer vision, or another field related to machine learning, with at least one publication in a top conference (ICLR, ICML, NeurIPS, CVPR, ICCV, ECCV, WACV, etc.).
-If you are interested, please [contact me](mailto:ceciliasummers@uvic.ca).
+I completed my PhD in Computer Science from the University of Auckland (New Zealand) and was nominated for the Dean’s List award (top 5% of the year). I also hold an MS in Applied Mathematics and graduated with a Distinction Award for my Master’s Thesis (top two in the department). Along the way also interned at Apple doing natural language processing.
 
 ## Recent Publications
 You can find the full list of my work on deep learning here: [Google scholar](https://scholar.google.com/citations?user=9h2gGfoAAAAJ&hl=en&oi=ao).
@@ -28,18 +23,20 @@ You can find the full list of my work on deep learning here: [Google scholar](ht
 During my MS, I also published papers on applied mathematics in journals such as Pattern Recognition Letters. 
 
 ## Awards 
+* 2022-2027 The Natural Sciences and Engineering Research Council of Canada (NSERC) Discovery Grants
+* 2022 The Natural Sciences and Engineering Research Council of Canada (NSERC) Discovery Launch Supplements
 * 2020 Google scholarship nominee
 * 2019 and 2020 PhD Award from Department of Computer Science, University of Auckland
 
 ## Invited talks
-* IBM New York office, Jan. 2022.
-* Toyota Research Institute, Jan. 2022.
+* IBM New York office, 2022.
+* Toyota Research Institute, 2022.
 * Purdue University, 2021.
 * University of California Davis, 2021.
 * Queen’s University Belfast, 2021.
 * Meta headquarters (aka Facebook), 2018.
 
 ## Contact<a name="contact"></a>
-E-mail: [ceciliasummers@uvic.ca](mailto:ceciliasummers@uvic.ca)
+E-mail: [cecilia.summers.07@gmail.com](mailto:cecilia.summers.07@gmail.com)
 
 Please note that I receive a lot of e-mail and may not be able to respond to all messages.
